@@ -2,6 +2,9 @@
 
 I am currently a college student pursuing Bachelor of Information Technology.
 
+- 🎮 I'm interested in getting AI to play video games like a human player.
+- 🌱 I'm learning OpenCV and then Reinforcement Learning to fulfill my curiosity and to improve my skills.
+
 <!--
 **Fuyuki0312/Fuyuki0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
