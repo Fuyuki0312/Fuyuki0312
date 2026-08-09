@@ -2,10 +2,10 @@
 
 I am currently a college student pursuing Bachelor of Information Technology.
 
+- 🌱 I'm learning to build a LLM-intergrated app to fulfill my passion for exploration and to improve my skills.
 - 🎮 I'm interested in getting AI to play video games like a human player.
-- 🌱 I'm learning Reinforcement Learning to fulfill my passion for exploration and to improve my skills.
 
-Reach me at: nguyenloc05989@gmail.com
+📫 Reach me at: nguyenloc05989@gmail.com
 
 <!--
 **Fuyuki0312/Fuyuki0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
